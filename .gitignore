@@ -1,3 +1,4 @@
 myenv
 .env
 _pycache_
+credentials.json
